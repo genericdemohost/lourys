@@ -1,0 +1,49 @@
+#cooljumbo {
+  background-color: #A64DFF;
+  background-image: url("../images/dance.jpg" );
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  font-family: 'Arial , Courier';
+  font-style:'oblique';
+  color: #FFFFFF;
+}
+.my-btn{
+    background: #30697A;
+    border-color: #A8C1D5;
+    color: #F5E3E0;
+}
+.my-btn:hover { 
+  border-color: #C0C0C0; 
+  background-color: #C0C0C0; 
+}
+.img-responsive {
+  display: block;
+  height:1024px;
+  max-width: 100%
+}
+
+.lap
+{
+color: #FF0000; 
+}
+
+footer
+{
+  background:transparent;
+  opacity:0.4;
+  position: fixed;
+  height: 25px;
+  bottom: 0;
+  width: 100%;
+}
+
+source
+{
+  position: absolute;
+  height: 25px;
+  bottom: 0;
+  width: 100%
+}
+
+
+/*https://api.jquery.com/animated-selector/ */
